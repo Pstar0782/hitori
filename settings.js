@@ -26,10 +26,10 @@ global.fake = {
 }
 
 global.my = {
-	yt: 'https://youtube.com/c/Nazedev',
-	gh: 'https://github.com/nazedev',
+	yt: 'https://www.tiktok.com/@pstar____7',
+	gh: 'gada',
 	gc: 'https://chat.whatsapp.com/E01VGFfMzfyEv7PmZcSGam',
-	ch: '120363250409960161@newsletter',
+	ch: 'tidak ada',
 }
 
 global.limit = {
@@ -47,11 +47,11 @@ global.uang = {
 global.mess = {
 	owner: 'Fitur Khusus Owner!',
 	admin: 'Fitur Khusus Admin!',
-	botAdmin: 'Bot Bukan Admin!',
-	group: 'Gunakan Di Group!',
-	private: 'Gunakan Di Privat Chat!',
-	prem: 'Khusus User Premium!',
-	wait: 'Loading...',
+	botAdmin: 'Minimal adminin dlu lah gwenya!',
+	group: 'Pakenya Di Group ya sayang!',
+	private: 'pakenya Di Privat Chat ya!',
+	prem: 'Lu kan bukan user premium, Premium dlu baru gw Lakuin!',
+	wait: 'Slow Lagi Loading...',
 	error: 'Error!',
 	done: 'Done'
 }
